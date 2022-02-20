@@ -15,6 +15,7 @@
     "geoip-lite-country": "1.1.5",
     "probe-image-size": "^4.0.0",
     "sockjs": "0.3.18"
+     "gulp": "^4.0.0"
   },
   "optionalDependencies": {
     "cloud-env": "^0.2.2",
