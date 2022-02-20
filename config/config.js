@@ -8,7 +8,7 @@ exports.port = 8000;
 /**
  * The server Namr - Being used to rename custom-plugins.
  */
-exports.serverName = 'LightVoid';
+exports.serverName = 'HallowDown';
 
 /**
 * The server IP - Being used to show avatars in profile.
@@ -93,7 +93,7 @@ exports.potd = '';
 exports.poof = true;
 
 // add system operators.
-exports.special = ['zeruora'];
+exports.special = ['iseehallowdynes'];
 
 /**
  * crash guard - write errors to log file instead of crashing
